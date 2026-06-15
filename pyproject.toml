@@ -5,5 +5,5 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "band-sdk[google-adk]>=1.0.0",
+    "band-sdk[a2a-gateway,google-adk]>=1.0.0",
 ]
