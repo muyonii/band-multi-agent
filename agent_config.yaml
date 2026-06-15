@@ -1,18 +1,28 @@
 Document Triager:
   agent_id: "b3ee8a42-624e-4b30-a651-ffeff46981f9"
   api_key: "band_a_1781338777_WeRgpKyFIWj_oAXKHdsA3_684pGx28ws"
+  handle: "@hexo/document-triager"
 Financial Forensic Agent:
   agent_id: "1438a2e8-8640-4584-b04a-07085a06170a"
   api_key: "band_a_1781338825_1bO2x6uzSmR2HdP7CaWt5gGhefExjZCt"
+  handle: "@hexo/financial-forensic-agent"
 Legal & Compliance Analyst:
   agent_id: "29989cc7-ec8c-4c7d-8ced-ac7baca3d4a0"
   api_key: "band_a_1781338890_hx7XXxwkEPxRiR75gPT2TaX4OzU9zZ2B"
+  handle: "@hexo/legal-compliance-analyst"
 Valuation Adjustment Agent:
   agent_id: "b81341e1-d027-42a7-b974-009a4a44af3b"
   api_key: "band_a_1781338947_B9LrizM8DPzi-ghk5g1tLJBL56cdd8aB"
+  handle: "@hexo/valuation-adjustment-agent"
 Risk Synthesis Agent:
   agent_id: "612ee50d-3d1d-4bd1-91ce-9b48638f181c"
   api_key: "band_a_1781339035_3SlBvC0QsWsi65m0BEoVBz-YdXD9-WPR"
+  handle: "@hexo/risk-synthesis-agent"
 Executive Arbitrator:
   agent_id: "617a8eb3-3f21-48ef-ac08-2a5831dfe015"
   api_key: "band_a_1781339075_TMsbu0dGnakaqaVMgGk3VE_qyVXMFXAi"
+  handle: "@hexo/executive-arbitrator"
+Supervisor Dashboard:
+  agent_id: "97de86a3-a234-4100-8ebb-611b3d0961ec"
+  api_key: "band_a_1781521645_OZh1QqQYJEG9eFUAvT593CULbhnQbNSW"
+  handle: "@hexo/supervisor-dashboard"
